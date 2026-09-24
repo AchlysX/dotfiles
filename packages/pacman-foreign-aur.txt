@@ -1,0 +1,7 @@
+brave-bin
+howdy
+linux-enable-ir-emitter
+python-dlib
+vicinae-bin
+yay
+yay-debug

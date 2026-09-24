@@ -1,0 +1,12 @@
+singleton Theme 1.0 Theme.qml
+singleton UI 1.0 UI.qml
+singleton Time 1.0 Time.qml
+singleton Sys 1.0 Sys.qml
+singleton Notifs 1.0 Notifs.qml
+Icon 1.0 Icon.qml
+singleton Osd 1.0 Osd.qml
+Slider 1.0 Slider.qml
+Toggle 1.0 Toggle.qml
+singleton Apps 1.0 Apps.qml
+Chip 1.0 Chip.qml
+singleton Displays 1.0 Displays.qml
